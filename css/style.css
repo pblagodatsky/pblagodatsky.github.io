@@ -1,0 +1,19 @@
+section#main{
+	background-color: blue;
+	height: 80vh;
+	color: #fff;
+	text-transform: uppercase;
+}
+.main_header{
+	padding-top: 25%;
+}
+
+.visota{
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+img{
+position: relative;
+left: 50%;
+transform: translateX(-50%)
+}
