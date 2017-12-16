@@ -37,7 +37,8 @@ p{
 	height: 50px;
 	background-image: url(../img/stardust.png);
 	background-repeat: repeat;
-	border: outset;
+	border: solid;
+	border-color: #fff;
 
 }
 .box_8{
