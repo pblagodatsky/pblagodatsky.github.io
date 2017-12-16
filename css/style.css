@@ -17,3 +17,9 @@ position: relative;
 left: 50%;
 transform: translateX(-50%)
 }
+p{
+	font-size: 16px;
+	padding-top: 10px;
+	font-family: Georgia;
+	font-weight: 900;
+}
